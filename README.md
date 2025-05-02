@@ -1,7 +1,3 @@
-Sure, here’s a professional and ready-to-use `README.md` for your GitHub repository:
-
----
-
 # Q-ViX: Hybrid Quantum-Classical Deepfake Detection Model
 
 Q-ViX is a hybrid deep learning model designed for high-accuracy image classification, specifically deepfake detection. It integrates classical architectures (Xception and Vision Transformer) with a custom Quantum Neural Network (QNN) built using Pennylane. This fusion enhances spatial and contextual feature extraction, offering strong generalization across diverse manipulated media datasets.
